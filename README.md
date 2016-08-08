@@ -17,6 +17,8 @@ Product Launcher is a project based on Django==1.9.7 for entreprenuer who have  
 - After running server visit http://127.0.0.1:8000
 - For admin dashborad http://127.0.0.1:8000/admin
 
+# Product Launcher running on Heroku
+ https://still-castle-26645.herokuapp.com
 
 For less technical people who need help you can reach me at
 phexcom@phexcom.me 
