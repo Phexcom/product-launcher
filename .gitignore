@@ -6,7 +6,7 @@ lwc/settings/local.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+*.swp
 # C extensions
 *.so
 
