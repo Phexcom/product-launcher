@@ -1,5 +1,5 @@
 # Product Launcher 
-Product Launcher is a project based on Django==1.9.7 for entreprenuer who have  a product and wants to do a pre-launcher campagin to get emails of potential customers.
+Product Launcher is a project based on Django==1.9.7 for entrepreneur who have a product and wants to do a pre-launcher campaign to get emails of potential customers.
 
 # How to setup in a local environment 
 
